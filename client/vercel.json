@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": ""
+      "destination": "https://collabflow-server.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
