@@ -107,7 +107,7 @@ Open `http://localhost:5173` to see the app running locally.
 
 **Nandani Singh**
 
-- GitHub: [@YOUR_NEW_USERNAME](https://github.com/NandaniSigh27)
+- GitHub: (https://github.com/NandaniSigh27)
 
 ## License
 
