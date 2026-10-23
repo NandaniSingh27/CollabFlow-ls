@@ -24,10 +24,6 @@ A real-time collaborative whiteboard with a built-in drawing game. Suited to tea
 - **Scoring:** faster guesses earn more points
 - **Automatic round management:** rounds start and end on their own
 
-## Live Demo
-
-[YOUR_NEW_VERCEL_URL](YOUR_NEW_VERCEL_URL)
-
 ## Tech Stack
 
 | Layer      | Technology                                   |
